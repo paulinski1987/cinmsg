@@ -1,9 +1,7 @@
 #ifndef CINMSG_H_INCLUDED
 #define CINMSG_H_INCLUDED
 #include <iostream>
-// Function headers for std::cin + prompt function. See cinmsg.cpp
-// for full definitions and usage.
-// Paul Banks Dec 12 2020.
+
 
 int intmsg(std::string x, int y);
 int intmsg(std::string x);
